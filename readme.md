@@ -6,8 +6,8 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
+<h2 align="left">How To Use </h2>
+<p align="left">Just Download And Run As Admmin... That's It</p>
 ###
 
 <h2 align="left">I code with</h2>
